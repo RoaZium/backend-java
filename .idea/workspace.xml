@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761eac43-e65d-47c5-8a66-5ae06bf6a994" name="Changes" comment="Spring 교육 - DI 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/battery/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/battery/ChargeBattery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/battery/NormalBattery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/toy/ElectronicCarToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/toy/ElectronicRadioToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/toy/ElectronicRobotToy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="307361af-d620-4abf-9ec8-aefc6ec7338b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
