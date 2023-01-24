@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307361af-d620-4abf-9ec8-aefc6ec7338b" name="Changes" comment="" />
+    <list default="true" id="307361af-d620-4abf-9ec8-aefc6ec7338b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend-education/src/Entity(Domain)와 DTO를 분리해야 하는 이유.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/기본 구조.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-common-server/개발환경 디렉터리 구조.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend-education/src/개발환경 디렉터리 구조.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,11 +76,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src" />
       <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\main\java\com\DI01" />
       <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\DI.01" />
       <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\DI.01\DI" />
       <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\education" />
-      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\main\java" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674551722462</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="다양한 의존 객체 주입">
+      <created>1674552251228</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674552251228</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +170,7 @@
     <MESSAGE value="Spring 교육 모듈 추가" />
     <MESSAGE value="Spring 교육 - DI 추가" />
     <MESSAGE value="Spring 교육 - applicationContext.xml 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring 교육 - applicationContext.xml 추가" />
+    <MESSAGE value="다양한 의존 객체 주입" />
+    <option name="LAST_COMMIT_MESSAGE" value="다양한 의존 객체 주입" />
   </component>
 </project>
