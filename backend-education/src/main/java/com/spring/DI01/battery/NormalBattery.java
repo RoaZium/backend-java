@@ -1,4 +1,4 @@
-package com.DI01.battery;
+package com.spring.DI01.battery;
 
 public class NormalBattery implements Battery{
 

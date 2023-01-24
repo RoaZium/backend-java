@@ -1,6 +1,6 @@
-package com.DI01.toy;
+package com.spring.DI01.toy;
 
-import com.DI01.battery.Battery;
+import com.spring.DI01.battery.Battery;
 
 public class ElectronicRobotToy {
 
