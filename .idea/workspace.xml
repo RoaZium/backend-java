@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761eac43-e65d-47c5-8a66-5ae06bf6a994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend-common-server/src/main/resources/static/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-common-server/src/main/resources/templates/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-common-server/src/main/java/controller/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend-common-server/src/main/java/controller/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-common-server/src/main/java/dao/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend-common-server/src/main/java/dao/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-common-server/src/main/java/dto/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend-common-server/src/main/java/dto/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-common-server/src/main/java/entity/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend-common-server/src/main/java/entity/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +17,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/backend-common-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/backend-education">
       <ProjectState />
     </projectState>
   </component>
@@ -99,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674489540167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="개발환경 디렉터리 구조">
+      <created>1674546394237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674546394237</updated>
+    </task>
+    <task id="LOCAL-00005" summary="개발환경 디렉터리 구조 이미지 첨부">
+      <created>1674546431266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674546431266</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring 프로젝트 생성" />
     <MESSAGE value="spring 프로젝트 폴더 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring 프로젝트 폴더 생성" />
+    <MESSAGE value="개발환경 디렉터리 구조" />
+    <MESSAGE value="개발환경 디렉터리 구조 이미지 첨부" />
+    <option name="LAST_COMMIT_MESSAGE" value="개발환경 디렉터리 구조 이미지 첨부" />
   </component>
 </project>
