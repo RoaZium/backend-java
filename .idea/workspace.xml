@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761eac43-e65d-47c5-8a66-5ae06bf6a994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend-education/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-education/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    <list default="true" id="761eac43-e65d-47c5-8a66-5ae06bf6a994" name="Changes" comment="Spring 교육 - DI 추가">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/battery/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/battery/ChargeBattery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/battery/NormalBattery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/toy/ElectronicCarToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/toy/ElectronicRadioToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-education/src/main/java/com/DI01/toy/ElectronicRobotToy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,6 +44,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -47,7 +63,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KjBnH3BQ0qWGhlvbXHZoNw3OI6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,7 +83,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-common-server\src\main\java" />
+      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\main\java\com\DI01" />
+      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\DI.01" />
+      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\DI.01\DI" />
+      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\education" />
+      <recent name="C:\Users\HOne-PC\source\repos\backend-java\backend-education\src\main\java" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674546431266</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Spring 교육 모듈 추가">
+      <created>1674548329290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674548329290</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +160,8 @@
     <MESSAGE value="spring 프로젝트 폴더 생성" />
     <MESSAGE value="개발환경 디렉터리 구조" />
     <MESSAGE value="개발환경 디렉터리 구조 이미지 첨부" />
-    <option name="LAST_COMMIT_MESSAGE" value="개발환경 디렉터리 구조 이미지 첨부" />
+    <MESSAGE value="Spring 교육 모듈 추가" />
+    <MESSAGE value="Spring 교육 - DI 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring 교육 - DI 추가" />
   </component>
 </project>
